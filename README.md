@@ -6,7 +6,7 @@ Installation
 
 2020-08-22 version is available at https://sourceforge.net/projects/ccdlab/
 
-2019-05-03 version is available in the github repository.
+2019-05-03 and 2020-08-25 versions are available in the github repository.
 
 If not accessible, Download an older version CCDLAB from https://www.ucalgary.ca/uvit/ 
 
