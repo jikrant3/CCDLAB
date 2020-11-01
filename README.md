@@ -5,7 +5,6 @@ CCDLAB is used for reducing Level 1 data from UVIT detector system onboard ASTR
 Installation
 
 Please include the apropriate reference in your publication:
-
    Postma J.~E., Leahy D., 2017, PASP, 129, 115002. doi:10.1088/1538-3873/aa8800
    Postma J.~E., Leahy D., 2020, PASP, 132, 054503. doi:10.1088/1538-3873/ab7ee8
 
